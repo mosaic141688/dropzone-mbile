@@ -1,0 +1,4 @@
+#Wed Oct 11 13:09:26 SAST 2017
+base.0=/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

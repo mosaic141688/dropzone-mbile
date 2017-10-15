@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/mosaic/.android/build-cache/be9834660efb464a9c9091cfde5e2c2528668970/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/mosaic/.android/build-cache/be9834660efb464a9c9091cfde5e2c2528668970/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/mosaic/.android/build-cache/be9834660efb464a9c9091cfde5e2c2528668970/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/mosaic/.android/build-cache/be9834660efb464a9c9091cfde5e2c2528668970/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/mosaic/.android/build-cache/be9834660efb464a9c9091cfde5e2c2528668970/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/mosaic/.android/build-cache/be9834660efb464a9c9091cfde5e2c2528668970/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]
