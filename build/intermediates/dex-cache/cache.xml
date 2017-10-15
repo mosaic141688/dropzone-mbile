@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/cd06a9a887e1093c368b47c919334cf29a28b260/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e9e9012a78b511275f0882e125bf2e7d35a1c34">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_92e5bf00990dca5161bf264f25600162414386a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/1615004952666e86f440be41c4a04599c0520b67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="003f59e51b07a10a2a7a0bd33c9eb0393c33b502">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_2f0e3f1d50b35e714821d2fed17df6528a3a8d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/cc234a639236f0b3e7ad241c7c047fb9da02a09b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="782d63e5456a49596ef322036691e25c60de3b83">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_276717c2e92f8bddb0ab7d027aa327439e825c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/6136387127851dcc109379bbc6b12f7cca973475/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_525cb1e0433b88961c9ddf5ebf6c525e1f06f74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/939650fe3ad57eee113be323d46716d5815d970c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_368800a332c80655945e729c847d03790bfd3dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/af56be8db0b2a006af5d9c3f462a540611694883/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0fe52eb7a638724583586c86887461f772edf6c6">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_53032efc55437a1765c22e5377210c38769f3594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/c455369603dc6d1b8986d53990b8521ab9bc33d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ae9f49918eed062ee1d8a53ec69cc30ab8efc45">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_6146ae8ca10584d79d9c3ec052e57f44bd0b287d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/4a2eed80e6e54f180cb28cc1db2323a1882142e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94b44f23de9606682e771f8a74dc69aff3b4e6be">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_53feccde28c775f7b79d16a983e8b467c058a1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/0647d3dae0c1acdf9d7c9fc17ad1db45909da135/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_830e33c906a42c2c74c23565d1d19266dc6638cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/f16f16e8f4863f3a34f3acb7d73e9b1b35bd9d03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_9c007034a1df8ed7e9c6d4b84f6be7a6cea4f65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/3111a5e0f88a75b0c813e03aad22cf49e4e9f20e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7e735784c9853573e457db7a841ab4a35c41ee7">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_e3891ac75821ef418d10a85f63db71ab0c348502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/299fe1adf5d43148ffb1d35135bda27d6248d222/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="160b1bf46034e2627970e148a29c9f57744fc75d">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_ac74cf08183c28aa42482acc718523c2f7f601f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/4999b748f79637f5c249c65eeef862d381b83daa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f1aed7a5811b8700106be0286ac8e440e07ceeeb">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_121679b042d4c7b66df12e312b8634e584a860c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/270c24a13c701d41eae005d87f350c568370c6da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6679c7d77ad34dbdf04342adb254dc5892aa04ac">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_3e290b63dd417183da9e7da01eef1108aa72034c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/37200423aabe7b163fe4c7635ecebfa9398fe836/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_b9b5218bfc15353102aa8014a42761c87cca2ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/3f2f0e8fd4db635d73b22b0a7a2bc648050fd07d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_9c584fed231217c250da73b1c23d9268c1c4316b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/2fa8cf6981ff5cb2bacfd519c1caed4b3043dd62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_013d52a54b423360591dfeab39020d1d84d20808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/76fa79f52c656d87d6465ec3f7b77e2f970c3f9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de3eb4bc4882f8d87039e7d742a6095ce4730cff">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_c6de3800fadffbd18dbd6126ca21c2dea2674a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/e23ec63c4e6b5bc14bd89d6d33f8683ebc451ecf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f1054add84f2844e5a809ef162c2a1a3fe81718">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_1b2c656ebd20e1e2b5bed6503ef1b780962bfb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/97b428edb482622376d761c77f4e816324b79a95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca61ba7a2ef86a116fad1b436e857b24698efd0c">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_7998a3a708c49146b8a2fbbddbb75e07e885b320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/44bec780f51e972cd12854c7d034e0bae27aaa44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00d8b1db49c6b3ccb71dcc6468faf0d7c5f1824c">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_16c3b03b7b69954c39b8bb5aebf7cfa453cb1904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/2f773bdfb528aaba9869e9a95f3031701eced49e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="241bafb36b47aee8c8c34acd08a1e7d735a66ff0">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_28a36e52ba3b98af0e2f683cdf07c7b6c4e22fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/dbaf69de66966bc9e7430bbe4c90c0874f588870/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2caf054cbb4752700babedbfd1a4d74145c91f77">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_0c4cbf099558088b8ead59e74d2802941e60bda6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/122fd1e42f26bc0dd534aee5a7dc2a6aa8a869b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52339832d252da4328c5ffcacbc205268346362a">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_0067afd9084a2f0205aa38df4f0695f13356eb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/89619f621f2db007ef1ad58e21f6894e2b34a543/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6555c483abcdcc71ef5f1d47bb1ff3fee35ef1b2">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_91d8cc06c2ad9a698c04c491b9ee51f36d30c8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/a8f152100420bb920d5ea38b483177ff4424d1ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2ffaaaacebca3a20b8d9dc77b4ce33932d22fe6c">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_3026fbcedb9cc74f0307480266c84fe9c7681299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/58c37b3114191536e4b211412e9137ddbedad7a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18da012dae25653123d00a4231b24a41ad4e0fa3">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_3627e5057d981a7b9e9e9571119a597937e2f178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/76d3359cd304944337bbcff7134a0c63537fd3ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14c499bb24fa932e0bc049050b382813ee331c4e">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_88cc196e6eceb54805664dcb91b8353938f515c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/b803c63f77390d9978adf70ac977c49c77a38234/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e4efed89c18cda5bbc2309efe84bb4b67e1ef239">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_7f28963dfb10c528a5bf77f98812c3efd248369a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/2eae81e1c23d261fc80adcdfa4cd7d93569b528f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_8f07146c02bce718d91b2896de4808b7c3ce9e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/02b9f97b3f0b39b849cac459ed128ab8a2ed373d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e36f9efacfe41041bd2570e285ed2c49c96ba9c">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_5481cd620a43dba771d76cc309f4906bb0bb92be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/eb8d25a5615d617d11929bdc106765e28793a6e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ccad5f56bf5c771ec3e85165be9ab0d0948c27aa">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_ba3f1cc1ec1f5974f607f7423308281e9555a0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/a7f663061fe6bccbbc0c569c36da6297a87ac4bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e569cfe2d772b2e4d8f1e8c462e6c33e165ad88">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_37f03faa5e5b3df2bd89d743c6627cdff4a5ac2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/85e6b7f2cbc893e0e8bfac579c40bb25aee7999d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48fe715b1ee9f4c8c7899d0eddcfa8d27f7287e5">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_c480f60bef5b313b240e3d55f4a370af5a4358e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/6726a407e7b323c6096cd31623ce7ac869201f01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e57811edcf98c8efc8db63a03f7e07116abfde1a">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_9cfdf9f1db76b7c5e37f100f76b180d27fcb177b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/b52570aec4bed0a1ae4d605303a0225f93586268/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aaf163ac652b3e984a2a5b23e5676631ec833d00">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_b2caa3b92d2ac0fa77310c84eacea117175f2543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/cd6a0e68603f00a7241c9f35ca4209d950f849da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd6a3b6e3c7c584a47479070fb9292a6c7468657">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_f256cc20d3b086725fc9aee4f600512b39e33eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/68dbddf6d63100cef99af4839c0a33db08dc5c49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_4e57d4e060cce37fd9790534f266899f808f2042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/common-1.0.0_a2397c2799f731c7bef18daec2cdae5561a863fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/10513b42b52a0a02e7282fa0094647d643ddb65f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_7067a654b7724d3f5f55d6cefc6b9ebe12159853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/94d3ce7565ae2f5fa0607c84244db9b31f2f090e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4c27d4039cebb3953f29ec0324964b502d8e08f0">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_c5f9f806c458eaf70bd759e321699aae48221ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/e19c90d0f0f2ff805f65953403f3362fe8e95e38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_9f489145c76950f687fb8c23fad18f365897d7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/70c4fb2e831f3be6da173df0514f37fce16741ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0674c4ebc74c075da5ae877715cc8ed56a72f75">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_49892b26ca376dac7c29b4ee04ff1e713db05960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/782cff161140b2a1802c31aedaf360593f8481f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd6d3fb99e7cd1191421ec9383244afd676dbb22">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_b04e36b1f437cf6838b4c9cc450d0f57d0f20663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/cc13b17d8d0d49530dfeb29a8d43fccc7d1a8e9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_9b5cbbb7c5295dd06b38e53f44c670df382eee23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/ec85875fa331bd598cd7ed436b6c83087a8414da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e1185bdde08224bf1275f6b4f9771df5e738e1b">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_53a0f76ab5915a536e02427dae3304bfd46381c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/okio-1.6.0_477c572598fd27663eee40aa0188bd831d5f9ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/a7441ed28e647ee36dddadb96f5194f80a38be04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_c3c6183c8a16bf0613194809870e5dd8c6afbc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/9753a5e876c61525ee8dbebf96e42587e36799b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_4a05893ef339581fbeff651bd4df4ed7f301377e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/0a96de55097f1562a2e01ca75dfe0d1922026df2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97fb40924e83775c91374180494801cb022aa008">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_1d683ac55c79cd22383be718969c0c662d493f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/df7df64a4616731b471366bff0f6c59ae10bbea5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_93a91353d59667196167515367c83b60e2468e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/f1fda8e634f918f05bbdc62131d8795556488b91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_6c1c1f10585ca4eecbe7b483487af00b40dd7f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/guava-20.0_e027bb75c9b4a002f2f65f4ddcb2d6055d9e9e2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/bf4aee7dc099e9ea73c251b2ce66950b0fa699ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9176f96bb623ac8bbd2b79942d9e419f72f95301">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_f35eb64d5401087bf317acd77958ffbaa1f4e330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/f03f3d114ac1d174ae6070035df3e5ae344f11bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e9aa99885516ec1d75eb555dfb10b568675d980">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_596819e78920ac8481109b77fd6afc8b5e577e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/bf3ea71cfca1cfb748e63b69b9431919c5582ccb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f552156e824f318819b664ab932f61d12cfa2f4">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_fc0a36c45eeaba456f4a2ba02d99b94b76c27862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/e35fa086b8b615a4fa1b8bddfb873a72f9d03e2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a4eaaebbf8013af99511a48371f8cef06025960">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_867ae18d88dbd020cc936b1853fb2cee9d217009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/e39a590dba5068a15148d24ed3f4f589ae3c262c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_62e45c79b03a4da985ecb858cabd61d125ef91af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/bb7d81c005d978d22e9f86e172db8d43a97e5325/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_e995bfc8251abc4be706e7531324f3becc009f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/53b48f30ebc38ee47f40b63519c1425eb0cbdd67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_8d8c4d9a8f02bf26e88c1350b8b43ba56382d6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/ea061ca84cfe19658a014286c716e06b76e6cab4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f39d408dff17f5627212dacd35261a22d6a89541">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_6c77e5505498ae5de4345ca769e64636f223cb29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/197bba5ec13f36d1efce31c1c97fd11a06ead438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44f4b8f303198bd2f7d06371e8cbaa19087e48e1">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_e4f3b55b40f14efa15767818b3528c3fcc1b14a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/8c6c0d557f921b5ded1218a45f225cb17755e26a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_f1248b45ebfd5f03040cab98531eafabfd802715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/839996a6fa5cfd82fe519982e1d7417e2e9a832d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61b17471888f61cba0f413a87d24ee2c4b993b">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_f0f67b77b21f9785cc1b8555740e0dd4ffd2b6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/fbfea8849524ab709d3e29b0d3dbf3dff4c06472/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_3a9bf17b8348a2cbafce420b047587ea76722d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/bb9df0a0926c9f651aa4f487369ab5a80b2b871c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d342436108515394ac10ce878ffd9b8f867101b">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_f865a436844497fbfad03a3f3697f9dde6040e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/4b99195ed5a60f8733a31c3d3739df9afd450273/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_bfa1433f23bfafa45cd3557ea383e27e2cae4205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/okhttp-2.7.2_cf5ba8cb175a70952013b8c039cf87275767d51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/338e6cebfabe507544d1a2121280207d804bb022/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_4048c68230ce0a6dd4b3228790d98759885d4dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/7ab46a9eaf74ee8854272d104b277f53801ef987/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_dcdccbfcf7c62b7b7fc01f17027fb3e9ef069d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/5930f0c01821b738329340e164853832842357a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_f13f1e18478362a1d8305865436e64d7934bcdbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/534b9b6cf4e697bf95a5a53f8be1b2dc54b754f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c4a5fe00c1a8c2f64d175cd055140b133ca6700">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_e735497c9bb30e16a773610a51c1bc6729ecfdd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/common-1.0.0_9490bcaa3f68379179c5f53b7475f2b87f29fd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_a6c2a6bd76bc5bddd289366f84cb125b1c87ae2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/5a4786387d0b6535c079cdc145b8c4eb8e11b3f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a2e3af3ba505e08e408a3846f8ab9f014b334e4">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_0595849b0c3622886b33be731fbc3afaaefa912c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/c9098b8006eda57b414d39ab1ccc7e139193d714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc0d71e8828a145ca4aebde8f6897608070f8863">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_cab8f00f38e66fa6f3bad1cfa8713e158d90d420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/136b67da2e85e1aea905c6652fb9ae986032028d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_da6df1a3aefb34ab2675c7919c01814d507f5c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/11813bd50eff2f0242cb0581d467073a6936b770/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e10d2ecf4103a530c37e09a3b0312c4a87d03052">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_14501853cfeaf0c00d7e6d2b786cef6ae97ab135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mosaic/.android/build-cache/561c63ad9f2270e823e089a215779466f47bc511/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/mosaic/Projects/ummo/DropZoe/app/build/intermediates/pre-dexed/debug/classes_12a02c9bdf820c78d6b0fdf97492150e201cc96c.jar" />
+    </item>
+
+</items>
